@@ -31,3 +31,8 @@ Basic-HTML-Website/
 └── LICENSE                     # (opcional) Tipo de licencia del proyecto
 
 URL: https://roadmap.sh/projects/basic-html-website
+
+
+👤 Author
+Edgar Ramos
+GitHub: @EdgarR9
