@@ -4,7 +4,7 @@ Este es un sitio web sencillo creado con HTML y CSS. Sirve como portafolio perso
 
 ## 🌐 Vista previa
 
-Puedes ver el sitio en vivo aquí: [enlace-al-sitio]([https://tuusuario.github.io/nombre-del-repositorio](https://github.com/EdgarR9/Basic-HTML-Website)
+Puedes ver el sitio en vivo aquí: https://github.com/EdgarR9/Basic-HTML-Website
 
 ## 📁 Estructura del proyecto
 
